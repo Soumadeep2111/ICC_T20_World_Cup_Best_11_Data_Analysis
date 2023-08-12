@@ -2,7 +2,7 @@
 
 This is a data analysis and data modeling project of the best 11 cricketer who have played in the ICC T20 World Cup 2022.
 
-The project is based on the idea of creating an ultimate unbeatable team of cricketer in the T20 format having player from all over the world.
+The project is based on the idea of creating an ultimate unbeatable team of cricketer in the T20 format having players from all over the world.
 
 This project is developed using some data nalysis tools commonly known to us :
 1) Web Scraping (Collecting raw data from espncricinfo.com and processing the data with Brightdata)

@@ -4,7 +4,7 @@ This is a data analysis and data modeling project of the best 11 cricketer who h
 
 The project is based on the idea of creating an ultimate unbeatable team of cricketer in the T20 format having players from all over the world.
 
-This project is developed using some data nalysis tools commonly known to us :
+This project is developed using some data analysis tools commonly known to us :
 1) Web Scraping (Collecting raw data from espncricinfo.com and processing the data with Brightdata)
 2) Python (The basic coding required for a data analysis work)
 3) Pandas (A Python library package used data filtering in Jupyter Notebook)
